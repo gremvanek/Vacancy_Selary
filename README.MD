@@ -16,7 +16,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/gremvanek/https---github.com-gremvanek-Vacancy-Salary
+    git clone https://github.com/gremvanek/Vacancy_Selary
     cd <Папка с репозиторием>
     ```
 
